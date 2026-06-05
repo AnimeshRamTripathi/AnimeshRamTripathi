@@ -1,6 +1,3 @@
-README.md
-v3 — final
- copy all
 <h1 align="center">Hey there 👋, I'm Animesh Ram Tripathi</h1>
 <h3 align="center">CS Undergrad @ IIIT Nagpur · Data Science & Analytics</h3>
 
