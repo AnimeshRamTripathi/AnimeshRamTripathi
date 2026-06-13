@@ -20,7 +20,7 @@
 -  B.Tech CSE (Data Science & Analytics) @ **IIIT Nagpur** (2023–2027)
 -  **Top 1% globally (Rank 1323)** in TCS CodeVita 2025 — 100K+ participants
 -  **Amazon ML Summer School** — 1 of 3,000 selected from 60,000+ applicants
--  **2nd Runner-Up** at AlgoRithmia, Tantrafiesta 2025 (600+ participants)
+-  **2nd Runner-Up** at AlgoRithmia(CP Contest), Tantrafiesta 2025 (600+ participants)
 -  **Pupil on Codeforces** (Peak: 1244) · **700+ DSA problems** solved across platforms
 -  Corporate Lead — Dot-Slash Coding Club, IIITN
 -  **animeshramtripathi@gmail.com**
