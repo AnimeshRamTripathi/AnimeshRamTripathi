@@ -23,7 +23,6 @@
 -  **2nd Runner-Up** at AlgoRithmia(CP Contest), Tantrafiesta 2025 (600+ participants)
 -  **Pupil on Codeforces** (Peak: 1244) · **700+ DSA problems** solved across platforms
 -  Corporate Lead — Dot-Slash Coding Club, IIITN
--  **animeshramtripathi@gmail.com**
 
 ---
 
